@@ -1,1 +1,1 @@
-# There is a video here named testvideo.mp4. Just have a look at the test.ipynb file how it takes the video makes frames out of it and then keypoints. i printed it for you to see.
+# Pose2Perform
